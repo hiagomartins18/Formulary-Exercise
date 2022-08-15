@@ -30,6 +30,7 @@ body{
     background-image: url(./images/bg-intro-desktop.png);
     background-color: var(--background-red-color);
     max-width: 1440px;
+    margin: 0 auto;
 }
 
 main{
